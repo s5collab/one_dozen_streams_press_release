@@ -33,8 +33,8 @@ Artist impression of twelve stellar streams observed by S5, seeing from the Gala
 ---
 ## Videos
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9dExQCwCbUU"
-target="_blank"><img src="https://img.youtube.com/vi/9dExQCwCbUU/0.jpg"
+<a href="https://www.youtube.com/watch?v=IivPfuskhFg"
+target="_blank"><img src="images_videos/video_cover.png"
 alt="One Dozen Streams in 3-D" width="600" height="400" border="1" /></a>
 Caption: A movie showing the 3-D location of individual stars in the dozen streams observed by S5. The colors of individual points are according to star’s 3-D velocity. (Credit: Sergey Koposov S5 Collaboration) [Download](images_videos/video_stream3D_220105.mp4)
 
