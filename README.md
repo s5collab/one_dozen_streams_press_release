@@ -22,7 +22,7 @@ Caption: Artist representation of our Milky Way Galaxy surrounded by dozens of s
 
 ![](images_videos/all_streams_gaia_cap.jpg)
 ![](images_videos/all_streams_gaia.jpg)
-Caption: Location of the stars in the dozen streams as seen on the sky. The background shows the stars in our Milky Way from the European Space Agency’s Gaia mission. The AAT is in a Southern Hemisphere telescope so only streams in the Southern sky are observed by S5.  (Credit: Ting Li, S5 Collaboration and European Space Agency) [Download w/ label](images_videos/all_streams_gaia_cap.jpg) [Download w/o label](images_videos/all_streams_gaia.jpg)
+Caption: Location of the stars in the dozen streams as seen on the sky. The background shows the stars in our Milky Way from the European Space Agency’s Gaia mission. The AAT is in a Southern Hemisphere telescope so only streams in the Southern sky are observed by S5.  (Credit: Ting Li, S5 Collaboration and European Space Agency) [Download w/ label](images_videos/all_streams_gaia_cap.jpg), [Download w/o label](images_videos/all_streams_gaia.jpg)
 
 ---
 ![](images_videos/dozenstream_southpole.JPG)
@@ -36,6 +36,7 @@ Artist impression of twelve stellar streams observed by S5, seeing from the Gala
 <a href="https://www.youtube.com/watch?v=IivPfuskhFg"
 target="_blank"><img src="images_videos/video_cover.png"
 alt="One Dozen Streams in 3-D" width="600" height="400" border="1" /></a>
+
 Caption: A movie showing the 3-D location of individual stars in the dozen streams observed by S5. The colors of individual points are according to star’s 3-D velocity. (Credit: Sergey Koposov S5 Collaboration) [Download](images_videos/video_stream3D_220105.mp4)
 
 
