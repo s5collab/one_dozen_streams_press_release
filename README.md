@@ -24,11 +24,13 @@ Caption: Location of the stars in the dozen streams as seen across the sky. The 
     [Download Image w/ label](images_videos/all_streams_gaia_cap.jpg), [Download Image w/o label](images_videos/all_streams_gaia.jpg)
 
 ---
+
 ![](images_videos/dozenstream_southpole.JPG)
 Caption: Artist’s impression of twelve stellar streams observed by S5, seen from the Galactic South Pole.  (Credit: Geraint F. Lewis, S5 Collaboration) [Download Image](images_videos/dozenstream_southpole.png)
 
 
 ---
+
 ## Videos
 
 <a href="https://www.youtube.com/watch?v=IivPfuskhFg"
@@ -37,12 +39,16 @@ alt="One Dozen Streams in 3-D" width="600" height="340" border="1" /></a>
 
 Caption: A movie showing the 3-D location of individual stars in the dozen streams observed by S5. The colors of individual points are according to a star’s 3-D velocity. (Credit: Sergey Koposov, S5 Collaboration) [Download Video](images_videos/video_stream3D_220105.mp4)
 
+---
+
 <a href="https://www.youtube.com/watch?v=CcE0gMyTbZY"
 target="_blank"><img src="images_videos/video_cover2.png"
 alt="simulation of 10 stream" width="600" height="340" border="1" /></a>
 
 Caption: The tidal disruption of ten globular clusters in the Milky Way for 8 billion years. The red particles show the dark matter of the simulated Milky Way and the green particles show the disrupting globular clusters. The stars from the disrupting globular cluster form long stellar streams which follow the orbit. Astronomers use these streams to measure the mass distribution and clumpiness of dark matter in the Milky Way, as well as the accretion history of our Galaxy. (Credit: Denis Erkal, S5 Collaboration)
  [Download  Video](images_videos/10_stream_simulations.mp4)
+
+---
 
 <a href="https://www.youtube.com/watch?v=qYM81uh8920"
 target="_blank"><img src="images_videos/video_cover3.png"
