@@ -1,5 +1,5 @@
 
-##  The article "S5: The Orbital and Chemical Properties of One Dozen Stellar Streams" by Ting Li and collaborators was accepted inAmerican Astronomical Society’s Astrophysical Journal and is available [here](https://arxiv.org/abs/2110.06950). 
+##  The article "S5: The Orbital and Chemical Properties of One Dozen Stellar Streams" by Ting Li and collaborators was accepted in American Astronomical Society’s Astrophysical Journal and is available [here](https://arxiv.org/abs/2110.06950). 
 
 ## Links: 
 - [Homepage of Ting Li](https://sazabi4.github.io/)
