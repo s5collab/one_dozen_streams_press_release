@@ -1,5 +1,7 @@
 
-##  The article "S5: The Orbital and Chemical Properties of One Dozen Stellar Streams" by Ting Li and collaborators was accepted in American Astronomical Society’s Astrophysical Journal and is available [here](https://arxiv.org/abs/2110.06950). 
+##  The materials for one dozen streams for the press-release on "Twelve for dinner: The Milky Way's feeding habits shine a light on dark matter"
+
+The article "S5: The Orbital and Chemical Properties of One Dozen Stellar Streams" by Ting Li and collaborators was accepted in American Astronomical Society’s Astrophysical Journal and is available [here](https://arxiv.org/abs/2110.06950). 
 
 ## Links: 
 - [Homepage of Ting Li](https://sazabi4.github.io/)
