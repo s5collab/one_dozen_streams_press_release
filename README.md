@@ -41,13 +41,13 @@ Caption: A movie showing the 3-D location of individual stars in the dozen strea
 
 <a href="https://www.youtube.com/watch?v=CcE0gMyTbZY"
 target="_blank"><img src="images_videos/video_cover2.png"
-alt="One Dozen Streams in 3-D" width="600" height="400" border="1" /></a>
+alt="simulation of 10 stream" width="600" height="400" border="1" /></a>
 
 Caption: This movie follows the tidal disruption of ten globular clusters in a simulated Milky Way-like galaxy for 8 billion years. The red particles show the dark matter of a simulated Milky Way-like galaxy and the green particles show ten disrupting globular clusters. The stars from the disrupting globular cluster form long stellar streams which roughly follow the orbit of the globular cluster. We can use these streams to measure the mass distribution and clumpiness of dark matter in the Milky Way, as well as the accretion history of our Galaxy. (Credit: Denis Erkal, S5 Collaboration) [Download](images_videos/10_stream_simulations.mp4)
 
 <a href="https://www.youtube.com/watch?v=qYM81uh8920"
 target="_blank"><img src="images_videos/video_cover3.png"
-alt="One Dozen Streams in 3-D" width="600" height="400" border="1" /></a>
+alt="simulation centered on 1 stream" width="600" height="400" border="1" /></a>
 
 Caption: This movie follows the progenitor of a tidal stream orbiting a simulated Milky Way-like galaxy for 8 billion years. The red particles show the dark matter from a cosmological simulation and the green particles show a disrupting globular cluster. The stars near the progenitor form a characteristic "S"-shape due to the gravitational influence of the globular cluster. (Credit: Denis Erkal, S5 Collaboration)
  [Download](images_videos/1_stream_view.mp4)
