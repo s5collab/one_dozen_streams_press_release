@@ -26,7 +26,7 @@ Caption: Location of the stars in the dozen streams as seen across the sky. The 
 ---
 
 ![](images_videos/dozenstream_southpole.JPG)
-Caption: Artist’s impression of twelve stellar streams observed by S5, seen from the Galactic South Pole.  (Credit: Geraint F. Lewis, S5 Collaboration) [Download Image](images_videos/dozenstream_southpole.png)
+Caption: Artist’s impression of twelve stellar streams observed by S5, seen from the Galactic South Pole.  (Credit: Geraint F. Lewis, S5 Collaboration) [Download Image](images_videos/dozenstream_southpole.PNG)
 
 
 ---
